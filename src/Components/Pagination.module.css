@@ -1,0 +1,32 @@
+.paginate {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+  margin: 0 5px;
+  border: 1px solid #fee440;
+  color: #fee440;
+  cursor: pointer;
+  padding: 5px 15px;
+}
+
+ul li a {
+  outline: none;
+  display: block;
+}
+
+.active {
+  background-color: #fee440;
+  color: #fff;
+}
+
+.disable {
+  pointer-events: none;
+}

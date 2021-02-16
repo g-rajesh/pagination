@@ -1,7 +1,10 @@
+import styles from './App.module.css';
+import Home from './Components/Home';
+
 function App() {
   return (
-    <div className="App">
-      <h2>Hello World</h2>
+    <div className={styles.App}>
+      <Home />
     </div>
   );
 }

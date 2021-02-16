@@ -1,0 +1,33 @@
+.Home {
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+}
+
+.underline {
+  margin: 5px 0 15px 0;
+  position: relative;
+  font-size: 42px;
+  letter-spacing: 2px;
+  display: inline-block;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.underline::after {
+  content: "";
+  width: 65%;
+  height: 3px;
+  margin: auto;
+  background-color: #fee440;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+}

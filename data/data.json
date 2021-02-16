@@ -1,0 +1,79 @@
+{
+  "gallery" : [
+    {
+      "id" : 10,
+      "img" : "https://images.unsplash.com/photo-1535966092542-fcdb19e1ea4e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "scenary"
+    },  
+    {
+      "id" : 13,
+      "img" : "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=756&q=80",
+      "type" : "animal"
+    },  
+    {
+      "id" : 6,
+      "img" : "https://images.unsplash.com/photo-1590670071764-dea69d14fa92?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "scenary"
+    },
+    {
+      "id" : 1,
+      "img" : "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "mountain"
+    },
+    {
+      "id" : 3,
+      "img" : "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "mountain"
+    },
+    {
+      "id" : 4,
+      "img" : "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80",
+      "type" : "mountain"
+    },
+    {
+      "id" : 14,
+      "img" : "https://images.unsplash.com/photo-1500479694472-551d1fb6258d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+      "type" : "animal"
+    },
+    {
+      "id" : 5,
+      "img" : "https://images.unsplash.com/photo-1558517286-6b7b81953cb5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "mountain"
+    },
+    {
+      "id" : 7,
+      "img" : "https://images.unsplash.com/photo-1605755451415-d8ae49c5ef22?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+      "type" : "scenary"
+    },
+    {
+      "id" : 8,
+      "img" : "https://images.unsplash.com/photo-1567848682317-8bb0e1b7fe1d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+      "type" : "scenary"
+    },
+    {
+      "id" : 15,
+      "img" : "https://images.unsplash.com/photo-1591706405280-f03acb082051?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80",
+      "type" : "animal"
+    },
+    {
+      "id" : 2,
+      "img" : "https://images.unsplash.com/photo-1503401639559-b16332601594?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "type" : "mountain"
+    },    
+    {
+      "id" : 12,
+      "img" : "https://images.unsplash.com/photo-1504006833117-8886a355efbf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "type" : "animal"
+    },
+    {
+      "id" : 9,
+      "img" : "https://images.unsplash.com/photo-1601732370739-4ed0f7ffc6a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+      "type" : "scenary"
+    },
+    {
+      "id" : 11,
+      "img" : "https://images.unsplash.com/photo-1444464666168-49d633b86797?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=749&q=80",
+      "type" : "animal"
+    }
+  ]
+}
